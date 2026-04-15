@@ -26,7 +26,7 @@ Este projeto utiliza exclusivamente dados **sintéticos/fictícios** da base Nor
 O modelo permite consultas complexas com alta performance. Abaixo, um exemplo de relatório de faturamento consolidado por categoria de produto:
 
 ![Resultado do Relatório](./SQL/resultado_faturamento.png)
-*(Nota: Certifique-se de que o nome da imagem na pasta coincide com o link acima)*
+
 
 ---
 **Projeto desenvolvido durante a Residência em Dados na Xerlock Smart Gov.**# northwind-datamart-kimball
